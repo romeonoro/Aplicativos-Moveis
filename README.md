@@ -1,7 +1,5 @@
 # Aplicativos Móveis - Ciência da Computação 📱
 
-Repositório central de materiais e projetos da disciplina de Aplicativos Móveis. Aqui, aplicamos os conceitos do **Plano de Ensino 2026/1** da Universidade Franciscana.
-
 ## 🚀 Proposta Tecnológica
 Nesta disciplina, adotamos uma abordagem evolutiva. Começamos com a base mais robusta e nativa para entender os fundamentos do hardware e do sistema operacional, e avançamos para os frameworks de produtividade do mercado:
 
@@ -39,22 +37,8 @@ Unidade 4: APIs e Frameworks
 
 ---
 
-## 📂 Organização das Aulas
-Os materiais estão organizados por pastas correspondentes a cada aula. Dentro de cada pasta, você encontrará os slides, códigos de exemplo e orientações práticas.
-
-
----
-
 ## 🛠️ Ferramentas Necessárias (Setup)
 * **IDE:** Android Studio (Ladybug ou superior)
 * **JDK:** Java Development Kit v21 (LTS)
 * **Linguagens:** Java, Dart e JavaScript/TypeScript.
 * **Emulação:** Android Virtual Device (AVD) API 35+ ou Dispositivo Físico.
-
----
-
-## 🏛️ Instituição e Contato
-**Universidade Franciscana (UFN)** **Curso:** Sistemas de Informação  
-**Professor:** André Flores dos Santos  
-**Local:** Santa Maria - RS  
-**Ano:** 2026
