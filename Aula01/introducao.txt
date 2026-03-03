@@ -1,0 +1,4 @@
+- Introdução à Aplicações Móveis - Android - Interface Gráfica em geral. TextView, EditText e Button.
+
+- Terminar o Cadastrar Aluno
+- Iniciar o Listar Aluno e validações
