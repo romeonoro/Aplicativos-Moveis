@@ -1,0 +1,2 @@
+- Entregar os arquivos Java+xml do Projeto
+- Lista de exercícios
