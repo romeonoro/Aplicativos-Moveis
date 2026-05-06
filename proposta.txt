@@ -1,0 +1,9 @@
+Fundamentos do Drift: Compreender as vantagens de usar uma biblioteca de persistência em vez de SQL puro.
+
+Mapeamento Objeto-Relacional: Aprender a definir tabelas e colunas diretamente em classes Dart.
+
+CRUD com Drift: Dominar as operações básicas de inserção, consulta, atualização e exclusão dentro do ecossistema Flutter.
+
+Planejamento de Sistemas: Capacidade de listar Requisitos Funcionais e desenhar o Modelo ER (Entidade-Relacionamento) de uma aplicação real.
+
+Prototipagem de Fluxo: Estruturar a hierarquia de telas (Cadastro, Listagem e Detalhes) de um aplicativo mobile.
